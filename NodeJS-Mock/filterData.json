@@ -1,0 +1,132 @@
+{
+    "authors": [
+        {
+            "id": 1,
+            "name":"Patricia Aakhus"
+        },
+        {
+            "id": 2,
+            "name":"Hans Aanrud"
+        },
+        {
+            "id": 3,
+            "name":"David Aaron"
+        },
+        {
+            "id": 4,
+            "name":"Rachel Aaron"
+        },
+        {
+            "id": 5,
+            "name":"Soazig Aaron"
+        },
+        {
+            "id": 6,
+            "name":"Ben Aaronovitch"
+        },
+        {
+            "id": 7,
+            "name":"Alexander Aaronsohn"
+        },
+        {
+            "id": 8,
+            "name":"Héctor Abad Faciolince"
+        },
+        {
+            "id": 9,
+            "name":"Christopher Abani"
+        },
+        {
+            "id": 10,
+            "name":"Sait Faik Abasıyanık"
+        },
+        {
+            "id": 11,
+            "name":"Carmine Abate"
+        },
+        {
+            "id": 12,
+            "name":"Christina Abbey"
+        },
+        {
+            "id": 13,
+            "name":"Edward Abbey"
+        },
+        {
+            "id": 14,
+            "name":"Henry Abbey"
+        },
+        {
+            "id": 15,
+            "name":"Lynn Abbey"
+        },
+        {
+            "id": 16,
+            "name":"Edwin A. Abbott"
+        },
+        {
+            "id": 17,
+            "name":"Eleanor Hallowell Abbott"
+        },
+        {
+            "id": 18,
+            "name":"George Frederick Abbott"
+        },
+        {
+            "id": 19,
+            "name":"Jacob Abbott"
+        },
+        {
+            "id": 20,
+            "name":"John S. C. Abbott"
+        },
+        {
+            "id": 21,
+            "name":"Megan Abbott"
+        },
+        {
+            "id": 22,
+            "name":"Mohammed ibn Hajj al-Abdari al-Fasi"
+        },
+        {
+            "id": 23,
+            "name":"Mohammed al-Abdari al-Hihi"
+        },
+        {
+            "id": 24,
+            "name":"Abdelkrim al-Khattabi"
+        }
+    ],
+    "sorts": [
+        {
+            "id": 1,
+            "name":"SORT1"
+        },
+        {
+            "id": 2,
+            "name":"SORT2"
+        },
+        {
+            "id": 3,
+            "name":"SORT3"
+        }
+    ],
+    "languages": [
+        {
+            "id": 1,
+            "name": "RU"
+        },
+        {
+            "id": 2,
+            "name": "HE"
+        },
+        {
+            "id": 3,
+            "name": "EN"
+        },
+        {
+            "id": 4,
+            "name": "FR"
+        }
+    ]
+}
