@@ -6,7 +6,7 @@ const port = 3000
 var fs = require("fs");
 console.log("\n *STARTING* \n");
 // Get content from file
-var filterData = fs.readFileSync("filterdata.json");
+var filterData = fs.readFileSync('filterdata.json', 'utf-8');
 var findResults = fs.readFileSync("findResults.json");
 // Define to JSON type
 var jsonFilterData = JSON.parse(filterData);
