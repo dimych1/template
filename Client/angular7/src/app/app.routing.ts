@@ -3,6 +3,7 @@
 import { HomeComponent } from './_components/home';
 import { AdminComponent } from './_components/admin';
 import { LoginComponent } from './_components/login';
+import { RegisterComponent } from './_components/register';
 import { AuthGuard } from './_guards';
 import { Role } from './_models';
 
@@ -22,6 +23,7 @@ const appRoutes: Routes = [
         path: 'login',
         component: LoginComponent
     },
+    { path: 'register', component: RegisterComponent },
 
     // otherwise redirect to home
     { path: '**', redirectTo: '' }

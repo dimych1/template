@@ -19,6 +19,7 @@ import { HomeComponent } from './_components/home';
 import { AdminComponent } from './_components/admin';
 import { LoginComponent } from './_components/login';
 import { LanguagesComponent } from './_components/languages';
+import { RegisterComponent } from './_components/register';
 
 export function setupTranslateFactory(
     service: TranslateService): Function {
@@ -38,7 +39,8 @@ export function setupTranslateFactory(
         AdminComponent,
         LoginComponent,
         TranslatePipe,
-        LanguagesComponent],
+        LanguagesComponent,
+        RegisterComponent],
     providers: [
         ConfigService,
         ConfigModule.init(),

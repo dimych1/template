@@ -16,4 +16,16 @@ export class UserService {
         // return this.http.get<User>(`${config.apiUrl}/users/${id}`);
         return this.http.get<User>(`/users/${id}`);
     }
+
+    register(user: User) {
+        return this.http.post(`/users/register`, user);
+    }
+
+    update(user: User) {
+        return this.http.put(`/users/${user.id}`, user);
+    }
+
+    delete(id: number) {
+        return this.http.delete(`/users/${id}`);
+    }
 }
